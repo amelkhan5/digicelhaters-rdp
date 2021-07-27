@@ -8,7 +8,7 @@ Go to "Action" create a new workflow
 Select workflow "WaWen TasoL(RDP)
 Click run workflow
 copy the ngrok authentication key
-paste it, select the region you want adn add you password
+paste it, select the region you want and add you password
 
 Run the workflow
 
